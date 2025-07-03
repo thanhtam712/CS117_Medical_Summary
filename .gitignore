@@ -1,0 +1,9 @@
+.env
+data/
+cache_dir/
+models/
+.deepeval/
+data_llama_factory/
+LLaMA-Factory/*
+*.txt
+wandb/
